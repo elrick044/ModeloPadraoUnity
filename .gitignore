@@ -1,0 +1,56 @@
+# Unity padrão
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.unityproj
+*.sln
+*.csproj
+*.pidb
+*.booproj
+*.svd
+
+# VS Code
+.vscode/
+
+# SOs
+.DS_Store
+*.swp
+*.tmp
+
+# Pacotes grandes (como o Vuforia)
+*.tgz
+*.zip
+*.rar
+
+# Arquivos específicos do Vuforia (evitar versionar o pacote .tgz)
+Packages/com.ptc.vuforia.engine-*.tgz
+Packages/com.ptc.vuforia.engine/
+
+# Cache de build AR/Vuforia (por segurança)
+VuforiaBuildCache/
+VuforiaAR/
+
+# Exemplo: se você tiver baixado o SDK manualmente
+Vuforia/
+VuforiaSamples/
+*.unitypackage
+
+# Outros
+*.apk
+*.aab
+*.keystore
+*.bak
+*.old
+*.orig
+
+# Ignorar arquivos de logs
+*.log
+
+# Arquivos do Rider IDE (JetBrains)
+.idea/
+*.iml

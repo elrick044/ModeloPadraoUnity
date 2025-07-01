@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01bb2bc49efe8f4429af3dc8bf4748ec, type: 3}
+  m_Name: ParticleData- Gluon
+  m_EditorClassIdentifier: 
+  particleType: 2
+  particleFamily: 1
+  particleName: "Gl\xFAon"
+  symbol: G
+  energy: 0
+  mass: 0
+  spin: 1
+  model: {fileID: 1042513194209336297, guid: 8974210a3fed0e74b8c9b9bc8c244db9, type: 3}
+  color: {r: 0.96862745, g: 0.5411765, b: 0.41960785, a: 1}
