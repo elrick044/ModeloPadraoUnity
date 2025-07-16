@@ -211,7 +211,7 @@ void Update()
         Vector3 center = (c1.position + c2.position + c3.position) / 3f;
 
         GameObject comp = Instantiate(infoCardPrefab, center, Quaternion.identity);
-        comp.transform.localScale = Vector3.one;
+        comp.transform.localScale = Vector3.one * 0.37f;
 
         var compUI = comp.GetComponent<ParticleUIController>();
         if (compUI != null)

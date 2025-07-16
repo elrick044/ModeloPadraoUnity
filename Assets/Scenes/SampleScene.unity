@@ -1192,7 +1192,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   infoCardPrefab: {fileID: 1448779972986974356, guid: 9f898246a6f9d3844895c3d5bc9e2ae2, type: 3}
-  particleData: {fileID: 11400000, guid: 0ba09c9ec2d3ada48bf5aaf2cbda8ecc, type: 2}
+  particleData: {fileID: 11400000, guid: 1ac93509f9687ab4a8ddf4ea014e1410, type: 2}
 --- !u!114 &606224318
 MonoBehaviour:
   m_ObjectHideFlags: 0
